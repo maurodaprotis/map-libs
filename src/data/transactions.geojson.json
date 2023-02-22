@@ -1,0 +1,1462 @@
+{
+  "type": "FeatureCollection",
+  "name": "sql_runner_qfjfs797qtv998_2023-02-03_19-27-56",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "3820 NW BLITCHTON RD",
+        "city": "OCALA",
+        "state": "FL",
+        "zip4": "6762",
+        "lat": 29.206932667167415,
+        "lon": -82.186783344802834
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.186783344802834, 29.206932667167415]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "2248 APPALOOSA TRL",
+        "city": "WELLINGTON",
+        "state": "FL",
+        "zip4": "7669",
+        "lat": 26.640926639808143,
+        "lon": -80.282603758663967
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.282603758663967, 26.640926639808143]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "SCENIC HWY",
+        "city": "DUNDEE",
+        "state": "FL",
+        "zip4": "",
+        "lat": 28.011952009489804,
+        "lon": -81.602697780915747
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.602697780915747, 28.011952009489804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "15167 331 BUSINESS",
+        "city": "FREEPORT",
+        "state": "FL",
+        "zip4": "0258",
+        "lat": 30.510915004604641,
+        "lon": -86.130052528531053
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.130052528531053, 30.510915004604641]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "852 6TH ST NW",
+        "city": "WINTER HAVEN",
+        "state": "FL",
+        "zip4": "4067",
+        "lat": 28.030240936310804,
+        "lon": -81.732489008502043
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.732489008502043, 28.030240936310804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "3071 SW PORT ST LUCIE BLVD",
+        "city": "PORT SAINT LUCIE",
+        "state": "FL",
+        "zip4": "3226",
+        "lat": 27.251411477953425,
+        "lon": -80.376204587793254
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.376204587793254, 27.251411477953425]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "HOWELL MARKET LN",
+        "city": "WINTER PARK",
+        "state": "FL",
+        "zip4": "",
+        "lat": 28.6085,
+        "lon": -81.3021
+      },
+      "geometry": { "type": "Point", "coordinates": [-81.3021, 28.6085] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "3032 PARROT HEAD PL",
+        "city": "KISSIMMEE",
+        "state": "FL",
+        "zip4": "",
+        "lat": 28.3215,
+        "lon": -81.5845
+      },
+      "geometry": { "type": "Point", "coordinates": [-81.5845, 28.3215] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "3365 9TH ST N",
+        "city": "NAPLES",
+        "state": "FL",
+        "zip4": "",
+        "lat": 26.187478997019063,
+        "lon": -81.800484095368788
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.800484095368788, 26.187478997019063]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "1419 SW GADSAN AVE",
+        "city": "PORT SAINT LUCIE",
+        "state": "FL",
+        "zip4": "6559",
+        "lat": 27.216384557829549,
+        "lon": -80.392835281434387
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.392835281434387, 27.216384557829549]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "5144 E BUSCH BLVD",
+        "city": "TAMPA",
+        "state": "FL",
+        "zip4": "5306",
+        "lat": 28.033202626532599,
+        "lon": -82.398369499470434
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.398369499470434, 28.033202626532599]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "1693 LEE RD",
+        "city": "WINTER PARK",
+        "state": "FL",
+        "zip4": "2260",
+        "lat": 28.606224797391754,
+        "lon": -81.371360794014194
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.371360794014194, 28.606224797391754]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "BARTIGON AVE",
+        "city": "NORTH PORT",
+        "state": "FL",
+        "zip4": "",
+        "lat": 27.099727294907943,
+        "lon": -82.183488853528289
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.183488853528289, 27.099727294907943]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "3110 39TH AVE N",
+        "city": "ST PETERSBURG",
+        "state": "FL",
+        "zip4": "4530",
+        "lat": 27.807244410822335,
+        "lon": -82.675978903635581
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.675978903635581, 27.807244410822335]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "12401 N 22ND ST",
+        "city": "TAMPA",
+        "state": "FL",
+        "zip4": "4661",
+        "lat": 28.061134154048858,
+        "lon": -82.434228850058204
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.434228850058204, 28.061134154048858]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "1064 N TAMIAMI TRL",
+        "city": "NORTH FORT MYERS",
+        "state": "FL",
+        "zip4": "5306",
+        "lat": 26.664489934814355,
+        "lon": -81.876788657106061
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.876788657106061, 26.664489934814355]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "1781 DUNLAWTON AVE",
+        "city": "PORT ORANGE",
+        "state": "FL",
+        "zip4": "2909",
+        "lat": 29.108150434634204,
+        "lon": -81.027496502801128
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.027496502801128, 29.108150434634204]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "8340 SKYE RANCH BLVD",
+        "city": "SARASOTA",
+        "state": "FL",
+        "zip4": "3707",
+        "lat": 27.2704,
+        "lon": -82.3992
+      },
+      "geometry": { "type": "Point", "coordinates": [-82.3992, 27.2704] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "440 BAYSHORE DR",
+        "city": "VENICE",
+        "state": "FL",
+        "zip4": "1411",
+        "lat": 27.108015267964511,
+        "lon": -82.452527303883855
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.452527303883855, 27.108015267964511]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "1060 GREENWOOD BLVD",
+        "city": "LAKE MARY",
+        "state": "FL",
+        "zip4": "5404",
+        "lat": 28.748562981347483,
+        "lon": -81.364313813818683
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.364313813818683, 28.748562981347483]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "4481 FRANKIE CT",
+        "city": "NORTH FORT MYERS",
+        "state": "FL",
+        "zip4": "4276",
+        "lat": 26.651970410114515,
+        "lon": -81.922826890017191
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.922826890017191, 26.651970410114515]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "ANDERSON LN",
+        "city": "MILTON",
+        "state": "FL",
+        "zip4": "",
+        "lat": 30.6961,
+        "lon": -87.0335
+      },
+      "geometry": { "type": "Point", "coordinates": [-87.0335, 30.6961] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "1100 SUNSET STRIP",
+        "city": "SUNRISE",
+        "state": "FL",
+        "zip4": "6168",
+        "lat": 26.137892872502192,
+        "lon": -80.231145643734976
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.231145643734976, 26.137892872502192]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "1040 KENNWOOD AVE",
+        "city": "PORT CHARLOTTE",
+        "state": "FL",
+        "zip4": "",
+        "lat": 26.992708689678551,
+        "lon": -82.1325911489335
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.1325911489335, 26.992708689678551]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "",
+        "city": "PALM CITY",
+        "state": "FL",
+        "zip4": "",
+        "lat": 27.162869467554415,
+        "lon": -80.301205646987952
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.301205646987952, 27.162869467554415]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "1136 ENBROOK LOOP",
+        "city": "NAPLES",
+        "state": "FL",
+        "zip4": "9318",
+        "lat": 26.044,
+        "lon": -81.6966
+      },
+      "geometry": { "type": "Point", "coordinates": [-81.6966, 26.044] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "190 LYMAN RD",
+        "city": "CASSELBERRY",
+        "state": "FL",
+        "zip4": "2802",
+        "lat": 28.67531753783642,
+        "lon": -81.34888658045611
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.34888658045611, 28.67531753783642]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "660 S TAMIAMI TRL",
+        "city": "OSPREY",
+        "state": "FL",
+        "zip4": "9216",
+        "lat": 27.186513153741728,
+        "lon": -82.486558200236445
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.486558200236445, 27.186513153741728]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "93 LAGUNA FOREST TRL",
+        "city": "PALM COAST",
+        "state": "FL",
+        "zip4": "",
+        "lat": 29.448323656348371,
+        "lon": -81.205746358043001
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.205746358043001, 29.448323656348371]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "2290 CORAL SPRINGS DR",
+        "city": "CORAL SPRINGS",
+        "state": "FL",
+        "zip4": "4234",
+        "lat": 26.258554794810273,
+        "lon": -80.266432676606897
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.266432676606897, 26.258554794810273]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "6700 US HIGHWAY 19 N",
+        "city": "PINELLAS PARK",
+        "state": "FL",
+        "zip4": "6242",
+        "lat": 27.833281019324822,
+        "lon": -82.68129672509113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.68129672509113, 27.833281019324822]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "1802 NE 13TH TER",
+        "city": "CAPE CORAL",
+        "state": "FL",
+        "zip4": "",
+        "lat": 26.67706439212597,
+        "lon": -81.937613750494876
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.937613750494876, 26.67706439212597]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "3813 SW ROSSER BLVD",
+        "city": "PORT SAINT LUCIE",
+        "state": "FL",
+        "zip4": "7084",
+        "lat": 27.231879083762728,
+        "lon": -80.399397836307514
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.399397836307514, 27.231879083762728]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "9580 SW HIGHWAY 200",
+        "city": "OCALA",
+        "state": "FL",
+        "zip4": "7720",
+        "lat": 29.057603513869232,
+        "lon": -82.278576139761796
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.278576139761796, 29.057603513869232]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "125 S CHARLESTON AVE",
+        "city": "FORT MEADE",
+        "state": "FL",
+        "zip4": "3315",
+        "lat": 27.749651701624316,
+        "lon": -81.801080608010309
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.801080608010309, 27.749651701624316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "8863 PHILIPS HWY",
+        "city": "JACKSONVILLE",
+        "state": "FL",
+        "zip4": "1301",
+        "lat": 30.203815565597182,
+        "lon": -81.5744100171555
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.5744100171555, 30.203815565597182]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "15540 SW 80TH ST",
+        "city": "MIAMI",
+        "state": "FL",
+        "zip4": "3373",
+        "lat": 25.692262,
+        "lon": -80.445984
+      },
+      "geometry": { "type": "Point", "coordinates": [-80.445984, 25.692262] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "2703 HINOKI CYPRESS PL",
+        "city": "SANFORD",
+        "state": "FL",
+        "zip4": "6473",
+        "lat": 28.7424,
+        "lon": -81.283
+      },
+      "geometry": { "type": "Point", "coordinates": [-81.283, 28.7424] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "1369 YORKDALE RD",
+        "city": "HAINES CITY",
+        "state": "FL",
+        "zip4": "",
+        "lat": 28.1,
+        "lon": -81.6186
+      },
+      "geometry": { "type": "Point", "coordinates": [-81.6186, 28.1] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "2 ROYAL PALM PT",
+        "city": "VERO BEACH",
+        "state": "FL",
+        "zip4": "",
+        "lat": 27.650201149882371,
+        "lon": -80.375059075927069
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.375059075927069, 27.650201149882371]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "19 NE 9TH ST",
+        "city": "MIAMI",
+        "state": "FL",
+        "zip4": "",
+        "lat": 25.783103207510365,
+        "lon": -80.193469264791943
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.193469264791943, 25.783103207510365]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "4215 9TH ST SW",
+        "city": "VERO BEACH",
+        "state": "FL",
+        "zip4": "4806",
+        "lat": 27.586812083365345,
+        "lon": -80.430019193333777
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.430019193333777, 27.586812083365345]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "1667 SUGARLOAF AVE SW",
+        "city": "PALM BAY",
+        "state": "FL",
+        "zip4": "",
+        "lat": 27.955671272522771,
+        "lon": -80.693895031340702
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.693895031340702, 27.955671272522771]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "338 ROOSEVELT ST",
+        "city": "HOLLYWOOD",
+        "state": "FL",
+        "zip4": "3534",
+        "lat": 26.026236225710001,
+        "lon": -80.116014846868097
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.116014846868097, 26.026236225710001]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "11380 BLOOMINGDALE AVE",
+        "city": "RIVERVIEW",
+        "state": "FL",
+        "zip4": "3707",
+        "lat": 27.893751,
+        "lon": -82.30901
+      },
+      "geometry": { "type": "Point", "coordinates": [-82.30901, 27.893751] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "4513 NW 31ST AVE",
+        "city": "FORT LAUDERDALE",
+        "state": "FL",
+        "zip4": "3403",
+        "lat": 26.183008307099129,
+        "lon": -80.188041835493095
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.188041835493095, 26.183008307099129]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "12525 AQUA RESERVE CT",
+        "city": "FORT MYERS",
+        "state": "FL",
+        "zip4": "9661",
+        "lat": 26.451562,
+        "lon": -81.746569
+      },
+      "geometry": { "type": "Point", "coordinates": [-81.746569, 26.451562] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "",
+        "city": "",
+        "state": "FL",
+        "zip4": "",
+        "lat": 30.844256736795423,
+        "lon": -87.16692921918991
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.16692921918991, 30.844256736795423]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "NW 1ST AVE",
+        "city": "GAINESVILLE",
+        "state": "FL",
+        "zip4": "",
+        "lat": 29.653012420154546,
+        "lon": -82.343514332227144
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.343514332227144, 29.653012420154546]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "5906 BRECKENRIDGE PKWY",
+        "city": "TAMPA",
+        "state": "FL",
+        "zip4": "4241",
+        "lat": 28.000697748632419,
+        "lon": -82.3599666256071
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.3599666256071, 28.000697748632419]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "1442 NE MIAMI CT",
+        "city": "MIAMI",
+        "state": "FL",
+        "zip4": "1326",
+        "lat": 25.789084592565274,
+        "lon": -80.194164233835039
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.194164233835039, 25.789084592565274]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "1620 GULF OF MEXICO DR",
+        "city": "LONGBOAT KEY",
+        "state": "FL",
+        "zip4": "3403",
+        "lat": 27.351786257625704,
+        "lon": -82.611154409922364
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.611154409922364, 27.351786257625704]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "5400 W ATLANTIC BLVD",
+        "city": "MARGATE",
+        "state": "FL",
+        "zip4": "5209",
+        "lat": 26.234947068271374,
+        "lon": -80.200153651808648
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.200153651808648, 26.234947068271374]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "",
+        "city": "MIAMI",
+        "state": "FL",
+        "zip4": "",
+        "lat": 25.921925006943511,
+        "lon": -80.205091096159833
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.205091096159833, 25.921925006943511]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "1540 FLANDERS RD",
+        "city": "JACKSONVILLE",
+        "state": "FL",
+        "zip4": "",
+        "lat": 30.266416466268417,
+        "lon": -81.645834498281005
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.645834498281005, 30.266416466268417]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "1225 N COMBEE RD",
+        "city": "LAKELAND",
+        "state": "FL",
+        "zip4": "2974",
+        "lat": 28.059731990619127,
+        "lon": -81.907465137024701
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.907465137024701, 28.059731990619127]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "19 BRAMBLE GROVE PL",
+        "city": "SANTA ROSA BEACH",
+        "state": "FL",
+        "zip4": "6470",
+        "lat": 30.314117033759054,
+        "lon": -86.118633092032212
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.118633092032212, 30.314117033759054]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "3773 OLD BERRY PT E",
+        "city": "FORT MYERS",
+        "state": "FL",
+        "zip4": "9539",
+        "lat": 26.608395009733734,
+        "lon": -81.840893264306743
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.840893264306743, 26.608395009733734]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "2600 NW 21ST TER",
+        "city": "MIAMI",
+        "state": "FL",
+        "zip4": "7113",
+        "lat": 25.838892150870009,
+        "lon": -80.240803173367141
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.240803173367141, 25.838892150870009]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "4702 MILLENIA PLAZA WAY",
+        "city": "ORLANDO",
+        "state": "FL",
+        "zip4": "2401",
+        "lat": 28.49355624947669,
+        "lon": -81.428556707283136
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.428556707283136, 28.49355624947669]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "7181 S US HIGHWAY 1",
+        "city": "PORT SAINT LUCIE",
+        "state": "FL",
+        "zip4": "1431",
+        "lat": 27.334521874037947,
+        "lon": -80.32586877425274
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.32586877425274, 27.334521874037947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "513 MARSEILLES CT",
+        "city": "PUNTA GORDA",
+        "state": "FL",
+        "zip4": "8030",
+        "lat": 26.887064202660852,
+        "lon": -82.038233456816855
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.038233456816855, 26.887064202660852]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "1251 NW 3RD ST",
+        "city": "MIAMI",
+        "state": "FL",
+        "zip4": "5693",
+        "lat": 25.776661385724935,
+        "lon": -80.215844617321608
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.215844617321608, 25.776661385724935]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "1ST",
+        "city": "PLANT CITY",
+        "state": "FL",
+        "zip4": "",
+        "lat": 28.031205165339472,
+        "lon": -82.118747166657343
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.118747166657343, 28.031205165339472]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "5910 N W ST",
+        "city": "PENSACOLA",
+        "state": "FL",
+        "zip4": "2227",
+        "lat": 30.473014841664707,
+        "lon": -87.254137954933569
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-87.254137954933569, 30.473014841664707]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "9104 ISABELLA CIR",
+        "city": "PARRISH",
+        "state": "FL",
+        "zip4": "3244",
+        "lat": 27.5424,
+        "lon": -82.4708
+      },
+      "geometry": { "type": "Point", "coordinates": [-82.4708, 27.5424] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "7101 54TH AVE N",
+        "city": "ST PETERSBURG",
+        "state": "FL",
+        "zip4": "2660",
+        "lat": 27.821376141864341,
+        "lon": -82.737220724600931
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.737220724600931, 27.821376141864341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "E FOWLER AVE",
+        "city": "TAMPA",
+        "state": "FL",
+        "zip4": "",
+        "lat": 28.054242624551691,
+        "lon": -82.452573195645357
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.452573195645357, 28.054242624551691]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "1620 GULF OF MEXICO DR",
+        "city": "LONGBOAT KEY",
+        "state": "FL",
+        "zip4": "3403",
+        "lat": 27.351786257625704,
+        "lon": -82.611154409922364
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.611154409922364, 27.351786257625704]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "SEARS RD",
+        "city": "LABELLE",
+        "state": "FL",
+        "zip4": "",
+        "lat": 26.671497898863755,
+        "lon": -81.312290020741216
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.312290020741216, 26.671497898863755]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "2634 CYPRESS RIDGE BLVD",
+        "city": "WESLEY CHAPEL",
+        "state": "FL",
+        "zip4": "6317",
+        "lat": 28.193284156006825,
+        "lon": -82.378024644601524
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.378024644601524, 28.193284156006825]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "2880 N ORANGE BLOSSOM TRL",
+        "city": "KISSIMMEE",
+        "state": "FL",
+        "zip4": "1132",
+        "lat": 28.332597368737439,
+        "lon": -81.404873757574748
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.404873757574748, 28.332597368737439]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "6367 TOWER LN",
+        "city": "SARASOTA",
+        "state": "FL",
+        "zip4": "",
+        "lat": 27.330226531270654,
+        "lon": -82.443563646871382
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.443563646871382, 27.330226531270654]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "3625 NEW JERSEY RD",
+        "city": "LAKELAND",
+        "state": "FL",
+        "zip4": "7500",
+        "lat": 27.997476315584862,
+        "lon": -81.935156826208186
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.935156826208186, 27.997476315584862]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "702 PINELLAS ST",
+        "city": "CLEARWATER",
+        "state": "FL",
+        "zip4": "3427",
+        "lat": 27.952243751599966,
+        "lon": -82.796974137505245
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.796974137505245, 27.952243751599966]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "4600 TRI PAR DR",
+        "city": "SARASOTA",
+        "state": "FL",
+        "zip4": "4103",
+        "lat": 27.376522179367804,
+        "lon": -82.531930191472398
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.531930191472398, 27.376522179367804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "1302 N PARSONS AVE",
+        "city": "BRANDON",
+        "state": "FL",
+        "zip4": "2432",
+        "lat": 27.959889184837387,
+        "lon": -82.28628352978599
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.28628352978599, 27.959889184837387]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "18710 SW 107TH AVE",
+        "city": "CUTLER BAY",
+        "state": "FL",
+        "zip4": "6750",
+        "lat": 25.593148952519897,
+        "lon": -80.347593933142704
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.347593933142704, 25.593148952519897]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "13078 FLAMINGO TER",
+        "city": "WEST PALM BEACH",
+        "state": "FL",
+        "zip4": "1309",
+        "lat": 26.868267372562769,
+        "lon": -80.066989954180102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.066989954180102, 26.868267372562769]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "11600 N KENDALL DR",
+        "city": "MIAMI",
+        "state": "FL",
+        "zip4": "1005",
+        "lat": 25.685645504441396,
+        "lon": -80.384035267638282
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.384035267638282, 25.685645504441396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "5636 PEACE RIVER DR",
+        "city": "LAKELAND",
+        "state": "FL",
+        "zip4": "1980",
+        "lat": 27.9586,
+        "lon": -82.016
+      },
+      "geometry": { "type": "Point", "coordinates": [-82.016, 27.9586] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "260 SPOONBILL DR",
+        "city": "POINCIANA",
+        "state": "FL",
+        "zip4": "",
+        "lat": 28.092395751125139,
+        "lon": -81.476693305186117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.476693305186117, 28.092395751125139]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "43 BARKLEY CIR",
+        "city": "FORT MYERS",
+        "state": "FL",
+        "zip4": "7517",
+        "lat": 26.587935310332192,
+        "lon": -81.881654208700056
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.881654208700056, 26.587935310332192]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "2100 SW 59TH TER",
+        "city": "WEST PARK",
+        "state": "FL",
+        "zip4": "",
+        "lat": 25.990708802575298,
+        "lon": -80.204795235602106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.204795235602106, 25.990708802575298]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "5801 SW 94TH ST",
+        "city": "PINECREST",
+        "state": "FL",
+        "zip4": "2048",
+        "lat": 25.684026035922741,
+        "lon": -80.28682332683114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.28682332683114, 25.684026035922741]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "",
+        "city": "INLET BEACH",
+        "state": "FL",
+        "zip4": "",
+        "lat": 30.2851,
+        "lon": -86.0298
+      },
+      "geometry": { "type": "Point", "coordinates": [-86.0298, 30.2851] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "568 SW 9TH ST",
+        "city": "BELLE GLADE",
+        "state": "FL",
+        "zip4": "3790",
+        "lat": 26.680447370317147,
+        "lon": -80.678378682471063
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.678378682471063, 26.680447370317147]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "9919 W OAKLAND PARK BLVD",
+        "city": "SUNRISE",
+        "state": "FL",
+        "zip4": "7009",
+        "lat": 26.170296693283014,
+        "lon": -80.283003063099159
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.283003063099159, 26.170296693283014]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "15350 N FLORIDA AVE",
+        "city": "TAMPA",
+        "state": "FL",
+        "zip4": "1257",
+        "lat": 28.090782973861714,
+        "lon": -82.460325450263738
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.460325450263738, 28.090782973861714]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "2814 18TH ST SW",
+        "city": "LEHIGH ACRES",
+        "state": "FL",
+        "zip4": "3607",
+        "lat": 26.597086273252195,
+        "lon": -81.671160661159647
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.671160661159647, 26.597086273252195]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "206 GREEN ACRES RD",
+        "city": "FORT WALTON BEACH",
+        "state": "FL",
+        "zip4": "1154",
+        "lat": 30.456270809940563,
+        "lon": -86.638907582139396
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.638907582139396, 30.456270809940563]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "3136 CALYPSO DR",
+        "city": "AVON PARK",
+        "state": "FL",
+        "zip4": "2288",
+        "lat": 27.630050973454111,
+        "lon": -81.504036115336262
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.504036115336262, 27.630050973454111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "8831 IMMOKALEE RD",
+        "city": "NAPLES",
+        "state": "FL",
+        "zip4": "3914",
+        "lat": 26.274323367492613,
+        "lon": -81.688542534956682
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.688542534956682, 26.274323367492613]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "3084 BRANDON DUNES LN",
+        "city": "LAUREL HILL",
+        "state": "FL",
+        "zip4": "",
+        "lat": 30.866942989588637,
+        "lon": -86.529300769604305
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.529300769604305, 30.866942989588637]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "11734 WHITE WILLOW LN",
+        "city": "RIVERVIEW",
+        "state": "FL",
+        "zip4": "5538",
+        "lat": 27.8557,
+        "lon": -82.3092
+      },
+      "geometry": { "type": "Point", "coordinates": [-82.3092, 27.8557] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "1851 W HIALEAH DR",
+        "city": "CITRUS SPRINGS",
+        "state": "FL",
+        "zip4": "",
+        "lat": 28.957950615063673,
+        "lon": -82.466107549365617
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.466107549365617, 28.957950615063673]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "2 RAINBOW LN",
+        "city": "PALM COAST",
+        "state": "FL",
+        "zip4": "",
+        "lat": 29.51199716301582,
+        "lon": -81.223858289722045
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.223858289722045, 29.51199716301582]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "446 6TH AVE NW",
+        "city": "RUSKIN",
+        "state": "FL",
+        "zip4": "8124",
+        "lat": 27.7233,
+        "lon": -82.4371
+      },
+      "geometry": { "type": "Point", "coordinates": [-82.4371, 27.7233] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "2090 US HIGHWAY 1 S",
+        "city": "SAINT AUGUSTINE",
+        "state": "FL",
+        "zip4": "5761",
+        "lat": 29.860979120253674,
+        "lon": -81.322577656070635
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.322577656070635, 29.860979120253674]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "address_line1": "13101 WILDFLOWER MEADOW DR",
+        "city": "RIVERVIEW",
+        "state": "FL",
+        "zip4": "9905",
+        "lat": 27.798,
+        "lon": -82.2644
+      },
+      "geometry": { "type": "Point", "coordinates": [-82.2644, 27.798] }
+    }
+  ]
+}
