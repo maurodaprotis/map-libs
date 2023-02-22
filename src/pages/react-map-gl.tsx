@@ -20,8 +20,9 @@ import Pin from "@/components/Pin";
 import { transactions } from "@/data/transactions.geojson";
 import type { LayerProps } from "react-map-gl";
 
+// GET TOKEN FROM https://account.mapbox.com/
 const TOKEN =
-  "pk.eyJ1IjoibWRsZXYiLCJhIjoiY2xkbml0cDFpMGpnaDNycXVhZHFqNnozNSJ9.M0zmj3a_mqglXfOcLkxgPw";
+  "SET TOKEN HERE!";
 
 export const clusterLayer: LayerProps = {
   id: "clusters",
